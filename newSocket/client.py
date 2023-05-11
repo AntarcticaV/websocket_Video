@@ -6,7 +6,7 @@ import numpy as np
 from queue import Queue
 import threading
 
-SERVER_URI = "ws://localhost:8000/ws"
+SERVER_URI = "ws://5.128.148.231:11000/ws"
 
 
 class VideoStreamer:
